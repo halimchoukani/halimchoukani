@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Halim Choukani <img alt="" src="https://i.pinimg.com/originals/9a/87/ed/9a87ed52cdfe3231b09e2b015b4a9055.gif"></img></h1>
+<h1 align="center">Hi 👋, I'm Halim Choukani <img alt="" src="https://i.pinimg.com/originals/9a/87/ed/9a87ed52cdfe3231b09e2b015b4a9055.gif" width="50px"></img></h1>
 <h3 align="center">A passionate Full-Stack developer from Tunisia</h3>
 <img 
     alt="" 
